@@ -1,0 +1,6 @@
+{
+  "name": "صانع فيديو الآيات",
+  "description": "أداة صانع فيديو وقصص الآيات القرآنية بدقة 9:16 مع مزامنة الصوت وتخصيص الخطوط والخلفيات وتوليد الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
